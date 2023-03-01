@@ -1,0 +1,102 @@
+/* Carter Campbell */
+/* CST-120 */
+/* CSS Styles Page */
+/* 2/10/22 */
+/* This is my own work! */
+
+/* ///////////////////////////////////////// */
+/* UNIVERSAL CSS */
+/* Set background color for all pages */
+body {
+  background-color: #5b8fb9;
+}
+/* nav bar css styles using "nav" id attribute */
+#nav {
+  background-color: #b6eada;
+  border: 3px solid #03001c;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 25px;
+  color: #03001c;
+}
+/* END UNIVERSAL CSS */
+/* ///////////////////////////////////////// */
+
+
+/* ///////////////////////////////////////// */
+/* HOME PAGE */
+/* social media css styles using "social" id attribute */
+#social {
+  background-color: #b6eada;
+  border: 3px solid #03001c;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  color: #301e67;
+}
+/* name header css style on home page using "name" id attribute */
+#name {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  color: #b6eada;
+  text-shadow: 2px 2px #03001c;
+}
+/* END HOME PAGE */
+/* ///////////////////////////////////////// */
+
+
+/* ///////////////////////////////////////// */
+/* SKILLS PAGE */
+/* Table CSS Styling */
+table {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  background-color: #301e67;
+  font-family: "Times New Roman", Times, serif;
+}
+/* Table Header CSS Styling */
+th {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  background-color: #b6eada;
+  color: #03001c;
+  height: 40px;
+}
+/* Table Row CSS Styling */
+tr {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  color: #b6eada;
+  text-align: center;
+}
+/* Table Data CSS Styling */
+td {
+  width: 33%;
+  border-top: 1px solid #b6eada;
+  border-right: 1px solid #b6eada;
+  border-bottom: 1px solid #b6eada;
+  border-left: 1px solid #b6eada;
+}
+#tabletitle {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  color: #b6eada;
+  text-shadow: 2px 2px #03001c;
+}
+/* END SKILLS PAGE */
+/* ///////////////////////////////////////// */
+
+
+/* ///////////////////////////////////////// */
+/* EDUCATION PAGE */
+#educationtitle {
+  color:#b6eada;
+  text-shadow: 2px 2px #03001c;
+  font-size: 20px;
+}
+#school {
+  color: #301e67;
+}
+/* END EDUCATION PAGE */
+/* ///////////////////////////////////////// */
